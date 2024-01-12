@@ -8,7 +8,7 @@ function App() {
 
   return (
     <UserContextProvider>
-     <h1>React Context Api heh</h1>
+     <h1 className='text text-center text-2xl m-2 '>React Context Api heh</h1>
      <Login/>
      <Profile/>
     </UserContextProvider>
